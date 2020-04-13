@@ -32,7 +32,7 @@ Navigate your command line to the location of PIP, and type the following:
 
 Download the files "translator.py"  into a directory.
 
-    Run command : **python translator.py**
+    Run command : python translator.py
 For closing the application, simply close the window and the application will get closed.       
         
 **CONTRIBUTION**
